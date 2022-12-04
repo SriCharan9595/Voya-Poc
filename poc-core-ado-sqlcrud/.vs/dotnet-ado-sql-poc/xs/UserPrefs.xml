@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{501088AF-9EDD-4C7D-B682-119FF54D4128}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/Controllers/DemoController.cs" relfile="Controllers/DemoController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="Controllers/DemoController.cs" />
+      <File FileName="Controllers/EmployeeController.cs" />
+      <File FileName="Services/IDemoCalc.cs" />
+      <File FileName="Services/IEmployee.cs" />
+      <File FileName="Services/EmployeeService.cs" />
+      <File FileName="Services/DemoCalcService.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet-ado-sql-poc" expanded="True">
+            <Node name="dotnet-ado-sql-poc" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.dotnet-ado-sql-poc PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

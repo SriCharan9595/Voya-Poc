@@ -1,0 +1,268 @@
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/appsettings.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.exe
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.deps.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.runtimeconfig.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Humanizer.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.AssemblyReference.cache
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfoInputs.cache
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CoreCompileInputs.cache
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.dotnet-ado-sql-poc.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.build.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/scopedcss/bundle/dotnet-ado-sql-poc.styles.css
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CopyComplete
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/refint/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.genruntimeconfig.cache
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/obj/Debug/net6.0/ref/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA ADO DotNet/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/appsettings.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.exe
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.deps.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.runtimeconfig.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Humanizer.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.AssemblyReference.cache
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfoInputs.cache
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CoreCompileInputs.cache
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.dotnet-ado-sql-poc.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.build.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/scopedcss/bundle/dotnet-ado-sql-poc.styles.css
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CopyComplete
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/refint/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/dotnet-ado-sql-poc.genruntimeconfig.cache
+C:/Users/vc/Desktop/VOYA/dotnet-ado-sql-poc/obj/Debug/net6.0/ref/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/appsettings.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.exe
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.deps.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.runtimeconfig.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Humanizer.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.AssemblyReference.cache
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfoInputs.cache
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CoreCompileInputs.cache
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.dotnet-ado-sql-poc.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.build.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotnet-ado-sql-poc.props
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/scopedcss/bundle/dotnet-ado-sql-poc.styles.css
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CopyComplete
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/refint/dotnet-ado-sql-poc.dll
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.pdb
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.genruntimeconfig.cache
+C:/Users/vc/Desktop/VOYA/poc-core-ado-sqlcrud/obj/Debug/net6.0/ref/dotnet-ado-sql-poc.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/appsettings.Development.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/appsettings.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.deps.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.runtimeconfig.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/dotnet-ado-sql-poc.pdb
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Humanizer.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.AssemblyReference.cache
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfoInputs.cache
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.AssemblyInfo.cs
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CoreCompileInputs.cache
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cs
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.MvcApplicationPartsAssemblyInfo.cache
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.dotnet-ado-sql-poc.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.build.dotnet-ado-sql-poc.props
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-ado-sql-poc.props
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotnet-ado-sql-poc.props
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/scopedcss/bundle/dotnet-ado-sql-poc.styles.css
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.csproj.CopyComplete
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/refint/dotnet-ado-sql-poc.dll
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.pdb
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/dotnet-ado-sql-poc.genruntimeconfig.cache
+/Users/sk/Project/voya-poc-internal/poc-core-ado-sqlcrud/obj/Debug/net6.0/ref/dotnet-ado-sql-poc.dll

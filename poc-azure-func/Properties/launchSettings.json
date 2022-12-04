@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "app_voya_poc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7282"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31176,
+      "useSSL": false
+    }
+  }
+}

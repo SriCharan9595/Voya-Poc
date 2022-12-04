@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sBoRMcKtb6H74SriqUVF/zX+Mb/tmHtZYX3e/pkaPuw=",
+  "Source": "dotnet-ado-sql-poc",
+  "BasePath": "_content/dotnet-ado-sql-poc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

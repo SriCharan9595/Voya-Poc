@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P+0phVEfDFZvGuZ5HcYRtxzo7lXFA71DaMyc3wpPmOg=",
+  "Source": "poc-voya-entity",
+  "BasePath": "_content/poc-voya-entity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
